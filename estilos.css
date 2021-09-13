@@ -1,0 +1,15 @@
+/*
+estilos.css
+Esta hoja de estilo se encarga de establecer cuáles serán las reglas de estilo
+que tendra el abc de alumnos/carreras
+*/
+
+h1{
+	text-align: center;
+    color: navy;
+	font-style: oblique;
+}
+
+body{
+	background:url('background.jpg');
+}
