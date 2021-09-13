@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "181153",
+      "paterno": "Campos",
+      "materno": "Valenzuela",
+      "nombre": "Ignacio",
+      "fecha": "02/08/1999",
+      "carrera": "Ingeniería en Software"
+    },
+    {
+      "id": "181297",
+      "paterno": "Espinoza",
+      "materno": "Salinas",
+      "nombre": "Ari",
+      "fecha": "18 de Diciembre de 1998",
+      "carrera": "ISW"
+    }
+  ]
+}
